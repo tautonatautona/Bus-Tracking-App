@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245261547049",
+    "project_id": "bus-taxitrackingapp",
+    "storage_bucket": "bus-taxitrackingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245261547049:android:d9e7399c88d2c6bfd7ce38",
+        "android_client_info": {
+          "package_name": "com.example.Bustrackingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtapfh0zBZ6iucKEshZFPockOWHAZcdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
